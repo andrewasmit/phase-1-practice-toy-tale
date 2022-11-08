@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 7
     },
     {
       "id": 5,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Andrew Smit",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQVFBgUFBQYGRgaGhsaGxsaGxkeGx0bGxscGxsiIBsbIi0kGx4pHhsaJTclKS4wNDQ0GyM5PzkxPi0yNDABCwsLEA8QGhISGjIgICAyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwMjIyMjIyMjIyMjIyMjIyMv/AABEIALcBEwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAAIDBQYBB//EADsQAAIBAgQEAwYEBQQDAQEAAAECEQAhAxIxQQQiUWEFcYEGEzJCkaFSYrHwI3LB0eEUM4KyotLxkkP/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EAB0RAQEAAgMBAQEAAAAAAAAAAAABAhESITFBUQP/2gAMAwEAAhEDEQA/AKelSpVzdHaVKlUHa5SrtBw1W+IcLnudYIqzqDiFJBAqjI8QZAwxMi4A2Nen+zPFPxHBqBykCJ/MP6DX0rzjE4bJJJ0DEHczW89gcQf6NRO7TcATO9Zz8dP53tkuPGTHYLpNixuYMT1EzNafwhgBE3IB7mwkn1n7VnfaJVGOQoJMk9N7emkDoJo/wnihN5MsYM2YgRruotJ/Zl7hLrJscNYNFppQOE9l+u/9aNw6413gnDgWolPp3obB8qfmvr+vTr/SoO4+IQII+n+L0Lw/CtiPLaasTpvU3E46qC2Ie9gZ16AaUDxHjgVSuGpA3JsfTv5gC9akqW6aM4qYYyjTS36T1qn8adcTDLJiFWW4OWQSBcAkZZgGfI6XrMcX4uACHysQAGlli/yyGl2JOpkX8qpuJ4vMqp/DRZnkMl9iJs2XbQFo1MSNzBi5aWGP4wcTDyOxcCZXLY2icogEb9dupobBxnBUgqpPM0KxMdyIVb2A0qrBU4phLgM0Ax0ucpsd4E6jS5p/EcUGw7KEG5ESQo5pN+UCBy631tXTTHKnMvvi6",
+      "likes": 6,
+      "id": 9
     }
   ]
 }
